@@ -1,0 +1,32 @@
+[
+  {
+    "date": "3 mai 2026",
+    "nom": "Grand-Prix de Versoix",
+    "lieu": "Versoix",
+    "lien": "casv.ch"
+  },
+    {
+    "date": "13 juin 2026",
+    "nom": "La descente Sagnarde",
+    "lieu": "La Sagne (NE)",
+    "lien": "https://descente-sagnarde.ch/"
+  },
+  {
+    "date": "11-12 juillet 2026",
+    "nom": "Manche de la Coupe d'Europe 2026(pilotes avec licence)",
+    "lieu": "St Cergue",
+    "lien": "https://www.facebook.com/leman.speed.down/"
+  },
+    {
+    "date": "14 septembre 2026",
+    "nom": "Rincette de Vex",
+    "lieu": "Bex (VD)",
+    "lien": "https://www.rincette-bex.ch/"
+  },
+  {
+    "date": "20 septembre 2026",
+    "nom": "Grand-Prix de Corsier",
+    "lieu": "Corsier",
+    "lien": "http://www.caissesasavon.ch/spip3/?lang=fr"
+  }  
+]
