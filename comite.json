@@ -5,32 +5,27 @@
     "evenement": "Assemblée générale"
   },
   {
-    "date": "2025-03-03",
+    "date": "2 mars 2026",
     "heure": "20h00",
     "evenement": "Séance du comité"
   },
   {
-    "date": "2025-03-27",
+    "date": "26 mars 2026",
     "heure": "20h00",
     "evenement": "Séance du comité"
   },
   {
-    "date": "2025-04-10",
+    "date": "21 avril 2026",
     "heure": "20h00",
     "evenement": "Séance du comité"
   },
   {
-    "date": "2025-05-07",
-    "heure": "20h00",
-    "evenement": "Séance du comité"
-  },
-  {
-    "date": "1er mai 2026",
+    "date": "30 avril 2026",
     "heure": "Soirée",
     "evenement": "Bottes de paille avec apéro"
   },
   {
-    "date": "2 mai 2026",
+    "date": "1 mai 2026",
     "heure": "Journée",
     "evenement": "Mise en place"
   },
@@ -40,13 +35,8 @@
     "evenement": "DIMANCHE DE LA COURSE !"
   },
   {
-    "date": "5 mai 2026",
+    "date": "4 mai 2026",
     "heure": "Journée",
-    "evenement": "Ranger les bottes de paille"
-  },
-  {
-    "date": "12 juin 2026",
-    "heure": "19h00",
-    "evenement": "Debriefing de la course"
+    "evenement": "Soirée"
   }
 ]
